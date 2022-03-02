@@ -5,7 +5,7 @@
 //comentário teste
 
 
-public abstract interface Autenticavel{
+public interface Autenticavel{
 	
 	
 	public abstract void setSenha(int senha);
